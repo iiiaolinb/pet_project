@@ -1,0 +1,20 @@
+"Login" = "Login";
+"LoginViewController.loginTextField.login" = "login";
+"LoginViewController.passwordTextField.password" = "password";
+"Profile" = "Profile";
+"Used" = "Used";
+"Free" = "Free";
+"Logout" = "Logout";
+"Cancel" = "Cancel";
+"Published files" = "Published files";
+"Last files" = "Last files";
+"All files" = "All files";
+
+"The image will be deleted" = "The image will be deleted";
+"Delete" = "Delete";
+"Share" = "Share";
+"File" = "File";
+"Link" = "Link";
+"Rename" = "Rename";
+"Done" = "Done";
+"The directory is empty" = "The directory is empty";

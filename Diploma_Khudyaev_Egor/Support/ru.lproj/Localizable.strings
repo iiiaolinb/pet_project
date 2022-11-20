@@ -1,0 +1,20 @@
+"Login" = "Войти";
+"login" = "имя";
+"password" = "пароль";
+"Profile" = "Профиль";
+"Used" = "Занято";
+"Free" = "Свободно";
+"Logout" = "Выйти";
+"Cancel" = "Отмена";
+"Published files" = "Опубликованные файлы";
+"Last files" = "Последние";
+"All files" = "Все файлы";
+
+"The image will be deleted" = "Изображение будет удалено";
+"Delete" = "Удалить";
+"Share" = "Поделиться";
+"File" = "Файлом";
+"Link" = "Ссылкой";
+"Rename" = "Переименовать";
+"Done" = "Готово";
+"The directory is empty" = "Директория не содержит файлов";

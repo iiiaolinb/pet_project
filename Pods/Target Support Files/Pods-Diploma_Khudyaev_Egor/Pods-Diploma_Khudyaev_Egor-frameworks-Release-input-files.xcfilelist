@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Diploma_Khudyaev_Egor/Pods-Diploma_Khudyaev_Egor-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework
